@@ -1,5 +1,5 @@
 testing rebase vetva testing
-dalsia zmena
+testing rebase2 vetva testing
 k
 
 druha zmena na vetve testing
