@@ -3,3 +3,4 @@ dalsia zmena
 k
 
 toto je 1 zmena na vetve main
+toto je 2 zmena na vetve main
